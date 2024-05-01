@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://patrick-roos.github.io/al-folio/sitemap.xml
+Sitemap: https://patrick-roos.github.io/sitemap.xml
