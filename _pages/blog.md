@@ -14,12 +14,11 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
-exclude: true
 ---
 
 <div class="post">
 
-{% assign blog_name_size = site.blog_name | size %}
+<!-- {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
@@ -100,7 +99,7 @@ exclude: true
     </div>
     <hr>
 
-{% endif %}
+{% endif %} -->
 
   <ul class="post-list">
 
