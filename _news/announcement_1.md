@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have moved to github pages to host my personal site!
+I decided to move to github pages to host my personal site. Bear with me as I find time to move some content here!
